@@ -1,0 +1,405 @@
+{
+  "collection": "Architecture Portfolio Collection",
+  "disclosure": "Original AI-generated fictional architectural concept imagery for a demonstration portfolio. Not photographs of real completed commissions. Cross-view geometry is visually guided, not derived from a single CAD/BIM model.",
+  "projects": [
+    {
+      "id": 1,
+      "slug": "01-banyan-court-residence",
+      "name": "Banyan Court Residence",
+      "category": "Courtyard residence",
+      "concept": "A contemporary two-storey tropical courtyard house with two offset rectilinear wings: warm board-formed exposed concrete, reddish-brown perforated brick screens, deep teak-lined roof overhangs, slim dark-bronze window frames, mature central courtyard tree. Flat roofs, low concrete garden wall, broad shallow entry steps, dense tropical planting. Taller brick-screen upper wing at the right of the main street elevation; single-height fully glazed concrete living wing at the left.",
+      "isConcept": true,
+      "imageOrigin": "AI-generated",
+      "images": [
+        {
+          "order": 1,
+          "title": "Hero Exterior",
+          "src": "01-banyan-court-residence/01-hero-exterior.jpg",
+          "webp": "01-banyan-court-residence/webp/01-hero-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Banyan Court Residence: hero exterior, AI-generated architectural concept."
+        },
+        {
+          "order": 2,
+          "title": "Courtyard",
+          "src": "01-banyan-court-residence/02-courtyard.jpg",
+          "webp": "01-banyan-court-residence/webp/02-courtyard.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Banyan Court Residence: courtyard, AI-generated architectural concept."
+        },
+        {
+          "order": 3,
+          "title": "Living Room",
+          "src": "01-banyan-court-residence/03-living-room.jpg",
+          "webp": "01-banyan-court-residence/webp/03-living-room.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Banyan Court Residence: living room, AI-generated architectural concept."
+        },
+        {
+          "order": 4,
+          "title": "Stair And Screen",
+          "src": "01-banyan-court-residence/04-stair-and-screen.jpg",
+          "webp": "01-banyan-court-residence/webp/04-stair-and-screen.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Banyan Court Residence: stair and screen, AI-generated architectural concept."
+        },
+        {
+          "order": 5,
+          "title": "Blue Hour Exterior",
+          "src": "01-banyan-court-residence/05-blue-hour-exterior.jpg",
+          "webp": "01-banyan-court-residence/webp/05-blue-hour-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Banyan Court Residence: blue hour exterior, AI-generated architectural concept."
+        }
+      ],
+      "cover": "01-banyan-court-residence/01-hero-exterior.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "02-strata-terrace-apartments",
+      "name": "Strata Terrace Apartments",
+      "category": "Boutique apartment building",
+      "concept": "A distinctive six-storey boutique apartment building on an urban tropical corner: ground floor plus five residential floors, warm ivory exposed-concrete horizontal bands, softly rounded balcony corners, offset generous planted terraces, slender bronze vertical privacy fins, recessed olive-gray glazing. A double-height recessed street lobby with a ribbed travertine wall; carefully integrated low planting. Mid-rise neighbors set back, no impossible overhangs.",
+      "isConcept": true,
+      "imageOrigin": "AI-generated",
+      "images": [
+        {
+          "order": 1,
+          "title": "Hero Exterior",
+          "src": "02-strata-terrace-apartments/01-hero-exterior.jpg",
+          "webp": "02-strata-terrace-apartments/webp/01-hero-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Strata Terrace Apartments: hero exterior, AI-generated architectural concept."
+        },
+        {
+          "order": 2,
+          "title": "Street Elevation",
+          "src": "02-strata-terrace-apartments/02-street-elevation.jpg",
+          "webp": "02-strata-terrace-apartments/webp/02-street-elevation.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Strata Terrace Apartments: street elevation, AI-generated architectural concept."
+        },
+        {
+          "order": 3,
+          "title": "Lobby",
+          "src": "02-strata-terrace-apartments/03-lobby.jpg",
+          "webp": "02-strata-terrace-apartments/webp/03-lobby.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Strata Terrace Apartments: lobby, AI-generated architectural concept."
+        },
+        {
+          "order": 4,
+          "title": "Apartment Terrace",
+          "src": "02-strata-terrace-apartments/04-apartment-terrace.jpg",
+          "webp": "02-strata-terrace-apartments/webp/04-apartment-terrace.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Strata Terrace Apartments: apartment terrace, AI-generated architectural concept."
+        },
+        {
+          "order": 5,
+          "title": "Facade Detail",
+          "src": "02-strata-terrace-apartments/05-facade-detail.jpg",
+          "webp": "02-strata-terrace-apartments/webp/05-facade-detail.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Strata Terrace Apartments: facade detail, AI-generated architectural concept."
+        }
+      ],
+      "cover": "02-strata-terrace-apartments/01-hero-exterior.jpg"
+    },
+    {
+      "id": 3,
+      "slug": "03-tide-house",
+      "name": "Tide House",
+      "category": "Coastal villa",
+      "concept": "An elegant two-storey coastal villa on a low dune above the sea: pale sand-colored limestone walls, a low sweeping flat roof with gently curved corners, deep bronze-framed glazing, vertical bleached-oak privacy screens, a long narrow lap pool parallel to the ocean. Main house is an L-shaped composition of two grounded volumes; no stilt house, no cliff-edge fantasy. Native dune grasses, stone terrace and restrained coastal landscaping.",
+      "isConcept": true,
+      "imageOrigin": "AI-generated",
+      "images": [
+        {
+          "order": 1,
+          "title": "Hero Exterior",
+          "src": "03-tide-house/01-hero-exterior.jpg",
+          "webp": "03-tide-house/webp/01-hero-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Tide House: hero exterior, AI-generated architectural concept."
+        },
+        {
+          "order": 2,
+          "title": "Pool Terrace",
+          "src": "03-tide-house/02-pool-terrace.jpg",
+          "webp": "03-tide-house/webp/02-pool-terrace.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Tide House: pool terrace, AI-generated architectural concept."
+        },
+        {
+          "order": 3,
+          "title": "Living Room",
+          "src": "03-tide-house/03-living-room.jpg",
+          "webp": "03-tide-house/webp/03-living-room.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Tide House: living room, AI-generated architectural concept."
+        },
+        {
+          "order": 4,
+          "title": "Bedroom",
+          "src": "03-tide-house/04-bedroom.jpg",
+          "webp": "03-tide-house/webp/04-bedroom.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Tide House: bedroom, AI-generated architectural concept."
+        },
+        {
+          "order": 5,
+          "title": "Evening Exterior",
+          "src": "03-tide-house/05-evening-exterior.jpg",
+          "webp": "03-tide-house/webp/05-evening-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Tide House: evening exterior, AI-generated architectural concept."
+        }
+      ],
+      "cover": "03-tide-house/01-hero-exterior.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "04-stillwater-sanctuary",
+      "name": "Stillwater Sanctuary",
+      "category": "Meditation and wellness pavilion",
+      "concept": "A single-storey contemporary contemplative sanctuary beside a still pond and bamboo grove: a long low charcoal board-formed concrete rectangular meditation hall, an offset warm rammed-earth entrance wall, a broad thin but structurally credible flat concrete roof supported by regular recessed columns, one circular skylight over the inner meditation space, narrow vertical cedar fins on one glazed facade. Raised dark stone plinth and accessible gently sloped approach, quiet minimal landscape. Secular wellness architecture, no religious symbols.",
+      "isConcept": true,
+      "imageOrigin": "AI-generated",
+      "images": [
+        {
+          "order": 1,
+          "title": "Hero Exterior",
+          "src": "04-stillwater-sanctuary/01-hero-exterior.jpg",
+          "webp": "04-stillwater-sanctuary/webp/01-hero-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Stillwater Sanctuary: hero exterior, AI-generated architectural concept."
+        },
+        {
+          "order": 2,
+          "title": "Entrance Walk",
+          "src": "04-stillwater-sanctuary/02-entrance-walk.jpg",
+          "webp": "04-stillwater-sanctuary/webp/02-entrance-walk.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Stillwater Sanctuary: entrance walk, AI-generated architectural concept."
+        },
+        {
+          "order": 3,
+          "title": "Meditation Hall",
+          "src": "04-stillwater-sanctuary/03-meditation-hall.jpg",
+          "webp": "04-stillwater-sanctuary/webp/03-meditation-hall.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Stillwater Sanctuary: meditation hall, AI-generated architectural concept."
+        },
+        {
+          "order": 4,
+          "title": "Covered Walkway",
+          "src": "04-stillwater-sanctuary/04-covered-walkway.jpg",
+          "webp": "04-stillwater-sanctuary/webp/04-covered-walkway.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Stillwater Sanctuary: covered walkway, AI-generated architectural concept."
+        },
+        {
+          "order": 5,
+          "title": "Material And Light",
+          "src": "04-stillwater-sanctuary/05-material-and-light.jpg",
+          "webp": "04-stillwater-sanctuary/webp/05-material-and-light.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Stillwater Sanctuary: material and light, AI-generated architectural concept."
+        }
+      ],
+      "cover": "04-stillwater-sanctuary/01-hero-exterior.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "05-monsoon-civic-hall",
+      "name": "Monsoon Civic Hall",
+      "category": "Municipal administration and public services",
+      "concept": "A modern three-storey civic administration building in a South Asian city: ground floor plus two upper floors, monumental but welcoming pale exposed-concrete frame, repeated warm red-brick deep sunshade fins, one large circular opening punched into a solid red-brick end wall, sheltered public arcade with clear structural columns and an accessible broad gently sloping approach. Central open courtyard, shaded public plaza with native trees. Honest functional public architecture, no logos or lettering.",
+      "isConcept": true,
+      "imageOrigin": "AI-generated",
+      "images": [
+        {
+          "order": 1,
+          "title": "Hero Exterior",
+          "src": "05-monsoon-civic-hall/01-hero-exterior.jpg",
+          "webp": "05-monsoon-civic-hall/webp/01-hero-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Monsoon Civic Hall: hero exterior, AI-generated architectural concept."
+        },
+        {
+          "order": 2,
+          "title": "Public Arcade",
+          "src": "05-monsoon-civic-hall/02-public-arcade.jpg",
+          "webp": "05-monsoon-civic-hall/webp/02-public-arcade.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Monsoon Civic Hall: public arcade, AI-generated architectural concept."
+        },
+        {
+          "order": 3,
+          "title": "Central Courtyard",
+          "src": "05-monsoon-civic-hall/03-central-courtyard.jpg",
+          "webp": "05-monsoon-civic-hall/webp/03-central-courtyard.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Monsoon Civic Hall: central courtyard, AI-generated architectural concept."
+        },
+        {
+          "order": 4,
+          "title": "Public Service Hall",
+          "src": "05-monsoon-civic-hall/04-public-service-hall.jpg",
+          "webp": "05-monsoon-civic-hall/webp/04-public-service-hall.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Monsoon Civic Hall: public service hall, AI-generated architectural concept."
+        },
+        {
+          "order": 5,
+          "title": "Circular Brick Detail",
+          "src": "05-monsoon-civic-hall/05-circular-brick-detail.jpg",
+          "webp": "05-monsoon-civic-hall/webp/05-circular-brick-detail.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Monsoon Civic Hall: circular brick detail, AI-generated architectural concept."
+        }
+      ],
+      "cover": "05-monsoon-civic-hall/01-hero-exterior.jpg"
+    },
+    {
+      "id": 6,
+      "slug": "06-canopy-ridge-retreat",
+      "name": "Canopy Ridge Retreat",
+      "category": "Forest hospitality retreat",
+      "concept": "A small refined forest retreat on a gentle wooded hillside: three separate one-storey timber guest pavilions linked by low raised timber walkways. Each pavilion has the same asymmetric single-slope pitched standing-seam dark-zinc roof, warm vertical cedar cladding, dark stone base and full-height bronze-framed forest-facing glazing. A slightly larger common lounge pavilion repeats this roof form. Sensible modest spans and low stone retaining walls, natural ferns and tall temperate forest, no tropical palms or precarious cliffs.",
+      "isConcept": true,
+      "imageOrigin": "AI-generated",
+      "images": [
+        {
+          "order": 1,
+          "title": "Hero Exterior",
+          "src": "06-canopy-ridge-retreat/01-hero-exterior.jpg",
+          "webp": "06-canopy-ridge-retreat/webp/01-hero-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Canopy Ridge Retreat: hero exterior, AI-generated architectural concept."
+        },
+        {
+          "order": 2,
+          "title": "Guest Pavilion",
+          "src": "06-canopy-ridge-retreat/02-guest-pavilion.jpg",
+          "webp": "06-canopy-ridge-retreat/webp/02-guest-pavilion.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Canopy Ridge Retreat: guest pavilion, AI-generated architectural concept."
+        },
+        {
+          "order": 3,
+          "title": "Guest Suite",
+          "src": "06-canopy-ridge-retreat/03-guest-suite.jpg",
+          "webp": "06-canopy-ridge-retreat/webp/03-guest-suite.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Canopy Ridge Retreat: guest suite, AI-generated architectural concept."
+        },
+        {
+          "order": 4,
+          "title": "Common Lounge",
+          "src": "06-canopy-ridge-retreat/04-common-lounge.jpg",
+          "webp": "06-canopy-ridge-retreat/webp/04-common-lounge.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Canopy Ridge Retreat: common lounge, AI-generated architectural concept."
+        },
+        {
+          "order": 5,
+          "title": "Walkway Dusk",
+          "src": "06-canopy-ridge-retreat/05-walkway-dusk.jpg",
+          "webp": "06-canopy-ridge-retreat/webp/05-walkway-dusk.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Canopy Ridge Retreat: walkway dusk, AI-generated architectural concept."
+        }
+      ],
+      "cover": "06-canopy-ridge-retreat/01-hero-exterior.jpg"
+    },
+    {
+      "id": 7,
+      "slug": "07-atelier-courtyard-offices",
+      "name": "Atelier Courtyard Offices",
+      "category": "Creative studio and office building",
+      "concept": "A four-storey creative office courtyard building in a dense urban arts district: ground floor plus three floors, an elegant exposed pale-concrete grid, oxidized terracotta baguette screening, deep recessed dark metal windows, a compact double-height entrance slot and a planted central open-air courtyard. A corner upper terrace cuts one bay out of the otherwise rectilinear mass. Grounded practical structure, a small street-facing cafe without signage, young street trees and real neighboring masonry buildings. Distinct from curving apartment architecture; crisp orthogonal grid.",
+      "isConcept": true,
+      "imageOrigin": "AI-generated",
+      "images": [
+        {
+          "order": 1,
+          "title": "Hero Exterior",
+          "src": "07-atelier-courtyard-offices/01-hero-exterior.jpg",
+          "webp": "07-atelier-courtyard-offices/webp/01-hero-exterior.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Atelier Courtyard Offices: hero exterior, AI-generated architectural concept."
+        },
+        {
+          "order": 2,
+          "title": "Courtyard",
+          "src": "07-atelier-courtyard-offices/02-courtyard.jpg",
+          "webp": "07-atelier-courtyard-offices/webp/02-courtyard.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Atelier Courtyard Offices: courtyard, AI-generated architectural concept."
+        },
+        {
+          "order": 3,
+          "title": "Studio Workspace",
+          "src": "07-atelier-courtyard-offices/03-studio-workspace.jpg",
+          "webp": "07-atelier-courtyard-offices/webp/03-studio-workspace.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Atelier Courtyard Offices: studio workspace, AI-generated architectural concept."
+        },
+        {
+          "order": 4,
+          "title": "Meeting Room",
+          "src": "07-atelier-courtyard-offices/04-meeting-room.jpg",
+          "webp": "07-atelier-courtyard-offices/webp/04-meeting-room.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Atelier Courtyard Offices: meeting room, AI-generated architectural concept."
+        },
+        {
+          "order": 5,
+          "title": "Terrace And Screen",
+          "src": "07-atelier-courtyard-offices/05-terrace-and-screen.jpg",
+          "webp": "07-atelier-courtyard-offices/webp/05-terrace-and-screen.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Atelier Courtyard Offices: terrace and screen, AI-generated architectural concept."
+        }
+      ],
+      "cover": "07-atelier-courtyard-offices/01-hero-exterior.jpg"
+    }
+  ]
+}
