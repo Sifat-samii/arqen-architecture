@@ -1,0 +1,63 @@
+{
+  "name": "Oculus House",
+  "slug": "08-oculus-house",
+  "category": "Experimental courtyard residence",
+  "status": "Concept · AI visualization",
+  "description": "A low circular residence organized around an open rain garden. A planted concrete roof ring frames the sky and central tree, while curved bronze-framed glazing connects the living spaces to the garden. A covered gallery and a bronze rain chain make rainfall part of the architectural experience.",
+  "generationMethod": "Built-in image generation",
+  "disclosure": "Original AI-generated fictional architectural concept. These are not photographs of a real completed commission. Reference-guided views are not derived from one CAD/BIM model; exact cross-view geometry and construction performance are not verified.",
+  "images": [
+    {
+      "order": 1,
+      "title": "Hero exterior and planted roof",
+      "src": "01-hero-exterior.jpg",
+      "webp": "webp/01-hero-exterior.webp",
+      "original": "originals/01-hero-exterior.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Oculus House: hero exterior and planted roof, AI-generated architectural concept."
+    },
+    {
+      "order": 2,
+      "title": "Courtyard and circular roof opening",
+      "src": "02-oculus-courtyard.jpg",
+      "webp": "webp/02-oculus-courtyard.webp",
+      "original": "originals/02-oculus-courtyard.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Oculus House: courtyard and circular roof opening, AI-generated architectural concept."
+    },
+    {
+      "order": 3,
+      "title": "Curved living room facing the rain garden",
+      "src": "03-curved-living-room.jpg",
+      "webp": "webp/03-curved-living-room.webp",
+      "original": "originals/03-curved-living-room.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Oculus House: curved living room facing the rain garden, AI-generated architectural concept."
+    },
+    {
+      "order": 4,
+      "title": "Covered gallery and rainwater detail",
+      "src": "04-monsoon-rain-gallery.jpg",
+      "webp": "webp/04-monsoon-rain-gallery.webp",
+      "original": "originals/04-monsoon-rain-gallery.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Oculus House: covered gallery and rainwater detail, AI-generated architectural concept."
+    },
+    {
+      "order": 5,
+      "title": "Blue-hour exterior and illuminated courtyard",
+      "src": "05-blue-hour-exterior.jpg",
+      "webp": "webp/05-blue-hour-exterior.webp",
+      "original": "originals/05-blue-hour-exterior.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Oculus House: blue-hour exterior and illuminated courtyard, AI-generated architectural concept."
+    }
+  ],
+  "cover": "01-hero-exterior.jpg",
+  "alternateCover": "05-blue-hour-exterior.jpg"
+}

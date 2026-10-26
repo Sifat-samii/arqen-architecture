@@ -1,10 +1,12 @@
-﻿{
+{
   "name": "architecture-firm-workspace",
   "private": true,
   "scripts": {
     "dev": "node inle-portfolio/scripts/dev.mjs",
     "start": "node inle-portfolio/scripts/dev.mjs",
     "build": "node inle-portfolio/scripts/build.mjs",
-    "check": "node inle-portfolio/scripts/check.mjs"
+    "check": "node inle-portfolio/scripts/check.mjs",
+    "check:tour": "node inle-portfolio/scripts/check-tour.mjs",
+    "check:tour-controls": "node --experimental-vm-modules inle-portfolio/scripts/check-tour-controls.mjs"
   }
 }
